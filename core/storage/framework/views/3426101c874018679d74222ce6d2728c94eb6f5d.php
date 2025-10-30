@@ -1,0 +1,1 @@
+<h1 style="display: block; text-align: center; margin-top: 400px">404</h1><?php /**PATH /home/u866818024/domains/codingbees.tech/public_html/cms/core/resources/views/errors/404.blade.php ENDPATH**/ ?>
